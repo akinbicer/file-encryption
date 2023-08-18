@@ -1,5 +1,4 @@
 ﻿using System.Security.Cryptography;
-using System.Text;
 using FileEncryption.Models;
 
 namespace FileEncryption.Utilities.Security;
